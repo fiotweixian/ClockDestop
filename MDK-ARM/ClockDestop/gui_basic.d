@@ -1,0 +1,16 @@
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\GUI_BASIC.C
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\config.h
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\LCMDRV.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\FONT_MACRO.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\GUI_CONFIG.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\GUI_BASIC.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\GUI_STOCKC.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\FONT5_7.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\FONT8_8.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\FONT24_32.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\LOADBIT.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\WINDOWS.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\MENU.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\spline.H
+.\clockdestop\gui_basic.o: ..\ZLG_GUI\ConvertColor.H
+.\clockdestop\gui_basic.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

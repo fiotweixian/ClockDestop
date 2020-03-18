@@ -1,0 +1,15 @@
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\ConvertColor.c
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\config.h
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\LCMDRV.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\FONT_MACRO.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\GUI_CONFIG.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\GUI_BASIC.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\GUI_STOCKC.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\FONT5_7.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\FONT8_8.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\FONT24_32.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\LOADBIT.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\WINDOWS.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\MENU.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\spline.H
+.\clockdestop\convertcolor.o: ..\ZLG_GUI\ConvertColor.H
